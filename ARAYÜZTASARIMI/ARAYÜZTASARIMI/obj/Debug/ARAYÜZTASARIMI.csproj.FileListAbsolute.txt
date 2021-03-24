@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\bin\Debug\ARAYÜZTASARIMI.exe.config
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\bin\Debug\ARAYÜZTASARIMI.exe
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\bin\Debug\ARAYÜZTASARIMI.pdb
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.Form1.resources
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.Properties.Resources.resources
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.exe
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.pdb
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\Interop.MapWinGIS.dll
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Salih\Desktop\Roket\ARAYÜZ\ARAYÜZTASARIMI\ARAYÜZTASARIMI\obj\Debug\ARAYÜZTASARIMI.csproj.ResolveComReference.cache
